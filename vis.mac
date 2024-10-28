@@ -1,0 +1,7 @@
+/vis/open TSG
+/vis/drawVolume
+/vis/viewer/set/autoRefresh true
+/vis/scene/add/trajectories smooth
+/vis/scene/add/scale 1 cm
+/vis/scene/add/eventID
+/vis/scene/endOfEventAction accumulate
